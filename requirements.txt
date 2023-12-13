@@ -44,7 +44,7 @@ mypy-protobuf==3.5.0
     # via -r requirements.in
 nodeenv==1.8.0
     # via pre-commit
-packaging==23.2
+packaging==23.0
     # via
     #   -c app/requirements.txt
     #   -c app/tests/requirements.txt
