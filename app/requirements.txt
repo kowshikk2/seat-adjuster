@@ -34,7 +34,7 @@ multidict==6.0.4
     # via
     #   aiohttp
     #   yarl
-packaging==23.2
+packaging==23.0
     # via deprecation
 protobuf==4.24.4
     # via
